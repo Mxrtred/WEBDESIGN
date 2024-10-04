@@ -1,0 +1,9 @@
+.btn-custom:hover {
+    background-color: #ff7f50; /* Цвет при наведении */
+    color: white;
+}
+
+.btn-custom:focus {
+    background-color: #eeff50; /* Цвет при нажатии */
+    color: white;
+}
